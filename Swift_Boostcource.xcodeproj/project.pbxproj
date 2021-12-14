@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		63360F6827687DAF00943142 /* Part1_if_switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_if_switch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		63360F692768825300943142 /* Part1_for_while.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_for_while.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		63360F6A2768846500943142 /* Part1_Basic_Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_Basic_Optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		63360F6B276888A300943142 /* Part1_Extract_Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_Extract_Optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		633B41352767127B00157947 /* Swift_Boostcource.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_Boostcource.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C015462767374D00595694 /* Part1_Advanced_Function.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_Advanced_Function.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		63D5623327671A98006DFA5C /* Part1_print_dump.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Part1_print_dump.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -38,6 +42,10 @@
 				63D5623727672B86006DFA5C /* Part1_Collection_Type.playground */,
 				63D562382767330D006DFA5C /* Part1_Basic_Function.playground */,
 				63C015462767374D00595694 /* Part1_Advanced_Function.playground */,
+				63360F6827687DAF00943142 /* Part1_if_switch.playground */,
+				63360F692768825300943142 /* Part1_for_while.playground */,
+				63360F6A2768846500943142 /* Part1_Basic_Optional.playground */,
+				63360F6B276888A300943142 /* Part1_Extract_Optional.playground */,
 				633B41362767127B00157947 /* Products */,
 			);
 			sourceTree = "<group>";
