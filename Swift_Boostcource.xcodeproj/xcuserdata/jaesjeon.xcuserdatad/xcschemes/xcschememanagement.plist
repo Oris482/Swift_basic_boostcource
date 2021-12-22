@@ -4,6 +4,27 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MyPlayground (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>MyPlayground (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>MyPlayground (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>Part1_Advanced_Function (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -23,7 +44,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>8</integer>
 		</dict>
 		<key>Part1_Any_AnyObject_nil (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +65,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Part1_Basic_Data_Type (Playground) 1.xcscheme</key>
 		<dict>
@@ -65,7 +86,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>9</integer>
 		</dict>
 		<key>Part1_Basic_Function (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +107,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Part1_Basic_Optional (Playground) 1.xcscheme</key>
 		<dict>
@@ -107,7 +128,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Part1_Collection_Type (Playground) 1.xcscheme</key>
 		<dict>
@@ -128,7 +149,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Part1_Extract_Optional (Playground) 1.xcscheme</key>
 		<dict>
@@ -149,7 +170,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Part1_for_while (Playground) 1.xcscheme</key>
 		<dict>
@@ -170,7 +191,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>2</integer>
 		</dict>
 		<key>Part1_if_switch (Playground) 1.xcscheme</key>
 		<dict>
@@ -191,7 +212,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Part1_print_dump (Playground) 1.xcscheme</key>
 		<dict>
@@ -212,7 +233,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>4</integer>
+		</dict>
+		<key>Part3_reduce (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>Part3_reduce (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Part3_reduce (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
 		</dict>
 		<key>Part_1_let_var (Playground) 1.xcscheme</key>
 		<dict>
@@ -233,12 +275,12 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>11</integer>
 		</dict>
 		<key>Swift_Boostcource.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
